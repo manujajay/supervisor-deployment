@@ -1,5 +1,5 @@
 # Supervisor Deployment Guide
-
+ 
 This README provides a guide on how to use Supervisor to manage and control process states in a UNIX-like operating system, which is particularly useful for managing long-running Python scripts or other server processes.
 
 ## Prerequisites
